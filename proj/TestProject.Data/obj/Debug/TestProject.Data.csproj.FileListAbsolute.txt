@@ -1,0 +1,20 @@
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\bin\Debug\TestProject.Data.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\bin\Debug\TestProject.Data.pdb
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\obj\Debug\TestProject.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\obj\Debug\TestProject.Data.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject.Data\obj\Debug\TestProject.Data.pdb
+D:\Программирование\.NET tranee\proj\TestProject.Data\bin\Debug\TestProject.Data.dll
+D:\Программирование\.NET tranee\proj\TestProject.Data\bin\Debug\TestProject.Data.pdb
+D:\Программирование\.NET tranee\proj\TestProject.Data\bin\Debug\EntityFramework.dll
+D:\Программирование\.NET tranee\proj\TestProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Программирование\.NET tranee\proj\TestProject.Data\bin\Debug\EntityFramework.xml
+D:\Программирование\.NET tranee\proj\TestProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Программирование\.NET tranee\proj\TestProject.Data\bin\Debug\ru\EntityFramework.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject.Data\obj\Debug\TestProject.Data.csprojResolveAssemblyReference.cache
+D:\Программирование\.NET tranee\proj\TestProject.Data\obj\Debug\TestProject.Data.dll
+D:\Программирование\.NET tranee\proj\TestProject.Data\obj\Debug\TestProject.Data.pdb

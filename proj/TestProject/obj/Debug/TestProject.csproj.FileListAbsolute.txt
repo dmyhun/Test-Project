@@ -1,0 +1,165 @@
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ApplicationInsights.config
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\TestProject.dll.config
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\TestProject.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\TestProject.pdb
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Antlr3.Runtime.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\EntityFramework.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.Web.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Newtonsoft.Json.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Helpers.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Mvc.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Optimization.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Razor.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.WebPages.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\TestProject.Data.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\WebGrease.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\TestProject.Data.pdb
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\EntityFramework.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Helpers.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Mvc.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Optimization.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.Razor.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.WebPages.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Antlr3.Runtime.pdb
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Newtonsoft.Json.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\Microsoft.AI.Web.xml
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\EntityFramework.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\obj\Debug\TestProject.dll
+C:\Users\Sergey.Migun\Desktop\WebApplication2\WebApplication2\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ApplicationInsights.config
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\TestProject.dll.config
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\TestProject.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\TestProject.pdb
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Antlr3.Runtime.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\EntityFramework.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.Web.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Newtonsoft.Json.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Helpers.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Mvc.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Optimization.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Razor.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.WebPages.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\TestProject.Data.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\WebGrease.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\TestProject.Data.pdb
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\EntityFramework.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Helpers.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Mvc.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Optimization.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.Razor.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.WebPages.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Antlr3.Runtime.pdb
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Newtonsoft.Json.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\Microsoft.AI.Web.xml
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\EntityFramework.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\obj\Debug\TestProject.dll
+C:\Users\Dima\AppData\Roaming\Skype\My Skype Received Files\proj\TestProject\obj\Debug\TestProject.pdb
+D:\Программирование\.NET tranee\proj\TestProject\bin\ApplicationInsights.config
+D:\Программирование\.NET tranee\proj\TestProject\bin\TestProject.dll.config
+D:\Программирование\.NET tranee\proj\TestProject\bin\TestProject.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\TestProject.pdb
+D:\Программирование\.NET tranee\proj\TestProject\bin\Antlr3.Runtime.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\EntityFramework.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\EntityFramework.SqlServer.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.Web.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.ApplicationInsights.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\Newtonsoft.Json.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Helpers.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Mvc.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Optimization.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Razor.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.WebPages.Deployment.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.WebPages.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.WebPages.Razor.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\TestProject.Data.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\WebGrease.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\TestProject.Data.pdb
+D:\Программирование\.NET tranee\proj\TestProject\bin\EntityFramework.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\EntityFramework.SqlServer.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Helpers.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Mvc.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Optimization.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.Razor.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.WebPages.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.WebPages.Deployment.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\System.Web.WebPages.Razor.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\Antlr3.Runtime.pdb
+D:\Программирование\.NET tranee\proj\TestProject\bin\Newtonsoft.Json.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.ApplicationInsights.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\Microsoft.AI.Web.xml
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\EntityFramework.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\System.Web.Helpers.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\System.Web.Mvc.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\System.Web.Optimization.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\System.Web.Razor.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\System.Web.WebPages.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Программирование\.NET tranee\proj\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\Программирование\.NET tranee\proj\TestProject\obj\Debug\TestProject.dll
+D:\Программирование\.NET tranee\proj\TestProject\obj\Debug\TestProject.pdb

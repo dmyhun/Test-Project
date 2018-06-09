@@ -1,0 +1,97 @@
+﻿@model TestProject.Models.RelationManageViewModel
+
+
+@{
+    ViewBag.Title = "Create or Update";
+}
+
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('select').material_select();
+        });
+    </script>
+}
+<h4>Create or edit relation</h4>
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="input-field col m6">
+            <i class="material-icons prefix">person_outline</i>
+                @Html.LabelFor(model => model.Name, "Name")
+
+                @if (Model.Id == null)
+                {
+                    @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Name)
+                }
+                else
+                {
+                    @Html.TextBoxFor(model => model.Name, new { @class = "form-control", readOnly = "true"})
+                }
+                    
+        </div>
+        <div class="input-field col m6">
+            <i class="material-icons prefix">person_outline</i>
+            @Html.TextBoxFor(model => model.FullName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.FullName)
+            @Html.LabelFor(model => model.FullName, "FullName")
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col m6">
+            <i class="material-icons prefix">phone</i>
+            @Html.LabelFor(model => model.TelephoneNumber, "Telephone Number")
+            @Html.TextBoxFor(model => model.TelephoneNumber, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.TelephoneNumber)
+        </div>
+        <div class="input-field col m6">
+            <i class="material-icons prefix">email</i>
+            @Html.LabelFor(model => model.Email, "Email")
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col m6">
+            <i class="material-icons prefix">location_on</i>
+            @Html.DropDownListFor(model => model.Country, new SelectList(Model.Countries))
+            @Html.LabelFor(model => model.Country, "Country")
+            @Html.ValidationMessageFor(model => model.Country)
+        </div>
+        <div class="input-field col m6">
+            <i class="material-icons prefix">location_on</i>
+            @Html.LabelFor(model => model.City, "City")
+            @Html.TextBoxFor(model => model.City, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.City)
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col m6">
+            <i class="material-icons prefix">location_on</i>
+            @Html.LabelFor(model => model.Street, "Street")
+            @Html.TextBoxFor(model => model.Street, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Street)
+        </div>
+        <div class="input-field col m6">
+            <i class="material-icons prefix">location_on</i>
+            @Html.LabelFor(model => model.StreetNumber, "Number")
+            @Html.TextBoxFor(model => model.StreetNumber, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.StreetNumber)
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col m6">
+            <i class="material-icons prefix">location_on</i>
+            @Html.LabelFor(model => model.PostalCode, "Postal Code")
+            @Html.TextBoxFor(model => model.PostalCode, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.PostalCode)
+        </div>
+        <div class="col m6">
+            @Html.HiddenFor(x => x.Id)
+            <div><button type="submit" class="btn btn-primary">Submit</button></div>
+        </div>
+    </div>
+}

@@ -1,0 +1,127 @@
+﻿@model TestProject.Models.HomeViewModel
+
+@{
+    ViewBag.Title = "List of relations";
+}
+
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('select').material_select();
+
+            $('.selectList').change(function () {
+                $(this).closest('form').submit();
+            });
+
+            $('#deleteSelectedBtn').click(function () {
+                var ids = [];
+                $('[name="relationsCbx"]').each(function () {
+                    if ($(this).prop('checked')) {
+                        ids.push($(this).val());
+                    }
+                });
+
+                if (ids.length) {
+                    if (confirm('Are you sure?')) {
+                        $.post("@Url.Action("DeleteRelations", "Home")", { relations: ids }, function () {
+                            location.reload();
+                        });
+                    }
+                }
+
+                return false;
+            });
+        });
+    </script>
+}
+
+<div>
+    <h4>List of relations</h4>
+
+    @using (Html.BeginForm("Index", "Home", null, FormMethod.Get))
+    {
+        <div class="row">
+            <div class="col l6">
+                <div class="input-field col s12">
+                    @Html.DropDownList("sort", Model.KeywordsForSort, new { @class = "selectList" })
+                    <label>Sort</label>
+                 </div>
+                    @Html.RadioButton("order", "ASC", true, new { id = "radiobtnAsc", @class = "radio-red" })
+                    <label for="radiobtnAsc">Ascending</label>
+
+                    @Html.RadioButton("order", "DESC", false, new { id = "radiobtnDesc", @class = "radio-red" })
+                    <label for="radiobtnDesc">Descending</label>
+                </div>
+
+            <div class="col l6">
+                <div class="input-field col s12">                    
+                    @Html.DropDownList("categoryId", Model.CategoriesList, new { @class = "selectList" })
+                    <label>Filter by category</label>
+                </div>
+             </div>
+        </div>
+    }
+
+    <table class="striped">
+        <tr class="header">
+            <th></th>
+            <th><p>Name</p></th>
+            <th><p>Full Name</p></th>
+            <th><p>Telephone Number</p></th>
+            <th><p>Email</p></th>
+            <th><p>Country</p></th>
+            <th><p>City</p></th>
+            <th><p>Street</p></th>
+            <th><p>Number</p></th>
+            <th><p>Postal Code</p></th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model.Relations)
+        {
+            <tr>
+                <td>
+                    <input type="checkbox" class="filled-in checkbox-red" name="relationsCbx" value="@item.Id" id="@item.Id"/>
+                    <label for="@item.Id"></label>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TelephoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Street)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StreetNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PostalCode)
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Home", new { id = item.Id })" class="waves-effect waves-light btn blue darken-1" role="button" aria-disabled="true">Edit</a>
+                </td>
+            </tr>
+        }
+    </table>
+
+    <div>
+        <div class="fixed-action-btn">
+            <a href="@Url.Action("Create", "Home")" class="btn-floating btn-large blue darken-1" role="button" aria-disabled="true"><i class="large material-icons">mode_edit</i></a>
+        </div>
+            <button type="button" class="waves-effect waves-light btn red lighten-1" id="deleteSelectedBtn"><i class="material-icons right">delete</i>delete</button>
+        </div>
+</div>

@@ -1,0 +1,74 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* label color */
+   .input-field label {
+     color: #000;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #000;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #re;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+     border-bottom: 1px solid #ff0000;
+     box-shadow: 0 1px 0 0 #ff0000;
+   }
+   .field-validation-error {
+       color: #ff0000;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #000;
+   }
+
+    .checkbox-red[type="checkbox"].filled-in:checked + label:after {
+        border: 2px solid #ef5350;
+        background-color: #ef5350;
+    }
+   .radio-red[type="radio"]:checked+label:after, [type="radio"].with-gap:checked+label:after{
+       background-color: #1E88E5;
+       border: 2px solid #1E88E5;
+   }
+
+   #deleteSelectedBtn {
+       margin-top:20px;
+   }
+
+   .dropdown-content li>a, .dropdown-content li>span
+   {
+       color: #000;
+   }
+}
